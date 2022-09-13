@@ -1,6 +1,6 @@
-# flutter_web_app
+# Flutter web Basic navigation
 
-A new Flutter project.
+This project contain a example of how use navigation in flutter web
 
 ## Getting Started
 
